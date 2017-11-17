@@ -1,0 +1,7 @@
+.ftpconfig
+cfg/db.php
+*.bk
+test*.php
+*.txt
+php_errorlog
+.ftpignore
